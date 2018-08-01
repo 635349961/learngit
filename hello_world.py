@@ -1,3 +1,7 @@
 print('Hello Git world!')
 print('Hello everyone.')
-print('Hi World')
+<<<<<<< HEAD
+print('Hello World')
+=======
+print('Hello World')
+>>>>>>> feature1
